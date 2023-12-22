@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Han Xu"
-  avatar           : "images/xh.png"
+  avatar           : "https://github.com/hanna-xu/hanna-xu.github.io/blob/master/images/xh.png"
   bio              : "Ph.D. Student <br> Wuhan University"
   location         : "Wuhan, China"
   employer         :
