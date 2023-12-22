@@ -83,7 +83,7 @@ author:
   name             : "Han Xu"
   avatar           : "https://github.com/hanna-xu/hanna-xu.github.io/blob/master/images/xh.png"
   bio              : "Ph.D. Student <br> Wuhan University"
-  location         : "Wuhan, China"
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZsxOdRUAAAAJ&hl=zh-CN"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  xu_han@whu.edu.cn
 
 
 # Reading Files
