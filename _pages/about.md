@@ -23,7 +23,6 @@ Academic Service
 ======
 * **Journal Reviewer**<br>
 IEEE TPAMI/TIP/JAS/TCSVT/TGRS, IJCV, Information Fusion, Neurocomputing, CVIU
-
 * **PC Member**<br>
 CVPR 2023/2024, NeurIPS 2023, ICLR 2024
 
