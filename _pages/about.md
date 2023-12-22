@@ -7,14 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About Me
+======
 I am currently a Ph.D. student at Electronic Information School of Wuhan University, China, under the supervision of Prof. [Jiayi Ma](http://mvp.whu.edu.cn/jiayima/) in the [Lab of Multi-spectral Vision Processing](http://mvp.whu.edu.cn/).
 
 My research interests include topics in computer vision, especially image fusion, image enhancement, and multi-modal data processing.
 
-Publications
+Recent Publications
 ======
 * **Han Xu**, Jiteng Yuan, Jiayi Ma. MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion. *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2023.
+* * Xunpeng Yi, **Han Xu**, Hao Zhang, Linfeng Tang, Jiayi Ma. Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model. *IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023.
 * **Han Xu**, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling. U2Fusion: A Unified Unsupervised Image Fusion Network. *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
 
 
