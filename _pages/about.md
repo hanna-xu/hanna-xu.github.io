@@ -22,11 +22,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Academic Service
 ======
 **Journal Reviewer**
-
 IEEE TPAMI/TIP/JAS/TCSVT/TGRS, IJCV, Information Fusion, Neurocomputing, CVIU
 
 **PC Member**
-
 CVPR 2023/2024, NeurIPS 2023, ICLR 2024
 
 Getting started
