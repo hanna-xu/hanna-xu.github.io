@@ -26,9 +26,10 @@ My research interests include topics in computer vision, especially image fusion
 * 2014-2018, B.E., Electronic Information School, Wuhan University.
 
 ## Honors and Awards
-*
-* Top Ten Academic Stars, Wuhan University, 2023 (武汉大学)
-* 
+* World’s Top 2% Scientists, 2023
+* Top Ten Academic Stars, Wuhan University, 2022
+* Special Prize of Graduate Academic Innovation Award, Wuhan University, 2022
+* Yu Gang and Song Xiao Scholarship, Wuhan University, 2021
 * National Scholarship for Graduate Student, 2020
 
 * 
