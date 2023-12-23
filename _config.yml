@@ -9,7 +9,7 @@
 locale                   : "China"
 title                    : "Han Xu"
 title_separator          : "-"
-name                     : &name "Han Xu"
+name                     : # &name "Han Xu"
 description              : &description "personal description"
 url                      : https://hanna-xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZsxOdRUAAAAJ&hl=zh-CN"
-  email            : "xu_han@whu.edu.cn"
+  email            : xu_han@whu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
