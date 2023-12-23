@@ -32,7 +32,6 @@ My research interests include topics in computer vision, especially image fusion
 * Yu Gang and Song Xiao Scholarship, Wuhan University, 2021
 * National Scholarship for Graduate Student, 2020
 
-* 
 ## Academic Service
 * **Journal Reviewer**<br>
 IEEE TPAMI/TIP/JAS/TCSVT/TGRS, IJCV, Information Fusion, Neurocomputing, CVIU
