@@ -14,20 +14,20 @@ My research interests include topics in computer vision, especially image fusion
 
 ## Selected Publications
 * <a href="papers/TPAMI_MURF.pdf" target="_blank">MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion</a>.<br>
-<font size=5>**Han Xu**, Jiteng Yuan, Jiayi Ma.<br>
+<h5><b>Han Xu<\b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2023.</font>
 * <a href="papers/TPAMI_U2Fusion.pdf" target="_blank">U2Fusion: A Unified Unsupervised Image Fusion Network</a>.<br>
-**<font size=4>Han Xu<\font>**<font size=4>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<\font><br>
+<h4><b>Han Xu<\b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<\h4><br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
-Xunpeng Yi, **Han Xu**, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
+Xunpeng Yi, <b>Han Xu<\b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
 *IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023.
 * Unsupervised Multi-exposure Image Fusion Breaking Exposure Limits via Contrastive Learning.<br>
-  **Han Xu**, Haochen Liang, Jiayi Ma. <br>
+ <b>Han Xu<\b>, Haochen Liang, Jiayi Ma. <br>
   *AAAI Conference on Artificial Intelligence* (**AAAI**), 2023.
 * RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
-**Han Xu**, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2022.
+<b>Han Xu<\b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR<\b>), 2022.
 
 [More papers](https://hanna-xu.github.io/publications/)
 
