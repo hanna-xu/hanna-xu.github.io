@@ -16,7 +16,7 @@ Recent Publications
 ======
 * **Han Xu**, Jiteng Yuan, Jiayi Ma. <a href="papers/TPAMI_MURF.pdf" target="_blank">MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion</a>. *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2023.
 * Xunpeng Yi, **Han Xu**, Hao Zhang, Linfeng Tang, Jiayi Ma. Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model. *IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2023.
-* **Han Xu**, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling. U2Fusion: A Unified Unsupervised Image Fusion Network. *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
+* **Han Xu**, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling. <a href="papers/TPAMI_U2Fusion.pdf" target="_blank">U2Fusion: A Unified Unsupervised Image Fusion Network</a>. *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
 
 
 
