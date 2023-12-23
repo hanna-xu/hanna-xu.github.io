@@ -17,7 +17,7 @@ My research interests include topics in computer vision, especially image fusion
 <font size=5>**Han Xu**, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2023.</font>
 * <a href="papers/TPAMI_U2Fusion.pdf" target="_blank">U2Fusion: A Unified Unsupervised Image Fusion Network</a>.<br>
-<font size=6>**Han Xu**, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<\font><br>
+**<font size=4>Han Xu<\font>**<font size=4>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<\font><br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
 Xunpeng Yi, **Han Xu**, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
