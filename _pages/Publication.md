@@ -53,6 +53,12 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma, Xiao-Ping Zhang.<br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.7203-7216, 2020.
 
+* <font size=3> FusionDN: A Unified Densely Connected Network for Image Fusion.
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6936"><font color=blue>[paper]</font></a>
+<a href="https://github.com/hanna-xu/FusionDN"><font color=blue>[code]</font></a><br>  
+<b>Han Xu</b>, Jiayi Ma, Zhuliang Le, Junjun Jiang, Xiaojie Guo.<br>
+<i>AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), 34(07), pp.12484-12491, 2020.
+
 * <font size=3> DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031751"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/DDcGAN"><font color=blue>[code]</font></a><br>
