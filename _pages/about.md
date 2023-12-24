@@ -13,10 +13,10 @@ I am currently a Ph.D. student at Electronic Information School of Wuhan Univers
 My research interests include topics in computer vision, especially image fusion, image enhancement, and multi-modal data processing.
 
 ## Selected Publications
-* [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/TPAMI_MUIRF.pdf).<br>
+* [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/TPAMI_MURF.pdf).<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (<b>TPAMI</b>), 2023.
-* [U2Fusion: A Unified Unsupervised Image Fusion Network](https://hanna-xu.github.io/files/TPAMI_MUIRF.pdf).<br>
+* [U2Fusion: A Unified Unsupervised Image Fusion Network](https://hanna-xu.github.io/files/TPAMI_U2Fusion.pdf).<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
