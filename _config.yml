@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Han Xu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : # &name "Han Xu"
 description              : &description "personal description"
