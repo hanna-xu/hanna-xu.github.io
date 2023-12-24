@@ -25,9 +25,9 @@ redirect_from:
 Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 *Information Fusion*, 2023.
 
-* U2Fusion: A Unified Unsupervised Image Fusion Network.<br>
-<b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence*, 44(1), pp. 502-518, 2022.
+:   * U2Fusion: A Unified Unsupervised Image Fusion Network.<br>
+:   <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
+:   *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 44(1), pp. 502-518, 2022.
 
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
 Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
