@@ -18,7 +18,7 @@ My research interests include topics in computer vision, especially image fusion
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 2023.
 
-* <font size=3><a href="https://hanna-xu.github.io/files/TPAMI_MURF.pdf](https://hanna-xu.github.io/files/TPAMI_U2Fusion.pdf">U2Fusion: A Unified Unsupervised Image Fusion Network</a>.<br>
+* <font size=3><a href="https://hanna-xu.github.io/files/TPAMI_U2Fusion.pdf">U2Fusion: A Unified Unsupervised Image Fusion Network</a>.<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 2022.
 
