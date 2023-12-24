@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Publication"
+permalink: /Publication/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ## Publications
 
 * [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/TPAMI_MURF.pdf).<br>
