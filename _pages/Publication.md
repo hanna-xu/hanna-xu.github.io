@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-* <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.</font><br>
+* <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
-<font size=3>*IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45(10), pp.12148-12166, 2023.</font>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45(10), pp.12148-12166, 2023.</font>
 
 * <font size=3>Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
 Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
