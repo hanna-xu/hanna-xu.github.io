@@ -41,10 +41,16 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 44(1), pp. 502-518, 2022.
 
-* <font size=3>DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion.
+* <font size=3>MEF-GAN: Multi-Exposure Image Fusion via Generative Adversarial Networks.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031751"><font color=blue>[paper]</font></a>
+<a href="https://github.com/hanna-xu/MEF-GAN"><font color=blue>[code]</font></a><br>
+<b>Han Xu</b>, Jiayi Ma, Xiao-Ping Zhang.<br>
+<i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.7203-7216, 2020.
+
+* <font size=3>DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112609"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/DDcGAN"><font color=blue>[code]</font></a><br>
-Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.
+Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.4980-4995, 2020.
 
 <a href=""><font color=blue>[paper]</font></a>
