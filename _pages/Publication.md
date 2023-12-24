@@ -47,6 +47,12 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma.<br>
 <i>Information Fusion</i>, 76, pp.177-186, 2021.
 
+* <font size=3> Classification Saliency-based Rule for Visible and Infrared Image Fusion.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9502544"><font color=blue>[paper]</font></a>
+<a href="https://github.com/hanna-xu/CSF"><font color=blue>[code]</font></a><br>
+<b>Han Xu</b>, Hao Zhang, Jiayi Ma.<br>
+<i>IEEE Transactions on Computational Imaging</i> (<b>TCI</b>), 7, pp.824-836, 2021.
+
 * <font size=3> SDPNet: A Deep Network for Pan-sharpening with Enhanced Information Representation.
 <a href="https://ieeexplore.ieee.org/abstract/document/9200533"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/SDPNet-for-pansharpening"><font color=blue>[code]</font></a><br>
