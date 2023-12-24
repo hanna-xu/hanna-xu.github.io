@@ -7,11 +7,15 @@ redirect_from:
   - /resume
 ---
 
-* [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/TPAMI_MURF.pdf).<br>
+* MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (<b>TPAMI</b>), 2023.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (<b>TPAMI</b>), 45(10), pp.12148-12166, 2023.
 
-* [U2Fusion: A Unified Unsupervised Image Fusion Network](https://hanna-xu.github.io/files/TPAMI_U2Fusion.pdf).<br>
+* Rethinking the Necessity of Image Fusion in High-level Vision Tasks: A Practical Infrared and Visible Image Fusion Network Based on Progressive Semantic Injection and Scene Fidelity.<br>
+Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
+<b>Information Fusion</b>, 2023.
+
+* U2Fusion: A Unified Unsupervised Image Fusion Network.<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 44(1), pp. 502-518, 2022.
 
@@ -23,5 +27,6 @@ Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
  <b>Han Xu</b>, Haochen Liang, Jiayi Ma. <br>
   *AAAI Conference on Artificial Intelligence* (**AAAI**), 2023.
 
-* [RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/CVPR_RFNet.pdf).<br><b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
+* RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
+<b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR</b>), pp. 19679-19688, 2022.
