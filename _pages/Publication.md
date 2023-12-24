@@ -59,6 +59,12 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma, Zhuliang Le, Junjun Jiang, Xiaojie Guo.<br>
 <i>AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), 34(07), pp.12484-12491, 2020.
 
+* <font size=3> Rethinking the Image Fusion: A Fast Unified Image Fusion Network Based on Proportional Maintenance of Gradient and Intensity.
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6975"><font color=blue>[paper]</font></a>
+<a href="https://github.com/HaoZhang1018/PMGI_AAAI2020"><font color=blue>[code]</font></a><br>
+Hao Zhang, <b>Han Xu</b>, Yang Xiao, Xiaojie Guo, Jiayi Ma.<br>
+<i>AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), 34(07), pp.12797-12804, 2020.
+
 * <font size=3> DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031751"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/DDcGAN"><font color=blue>[code]</font></a><br>
