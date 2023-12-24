@@ -14,6 +14,9 @@ redirect_from:
 * <font size=3>Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
 Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
 <i>IEEE/CVF International Conference on Computer Vision</i>, 2023.
+link: 'https://doi.org/10.1017/psrm.2019.23'
+code: 'https://doi.org/10.7910/DVN/VUY8UI'
+github: 'https://github.com/jayrobwilliams/Peace-Agreement-Strength'
 
 * <font size=3>Rethinking the Necessity of Image Fusion in High-level Vision Tasks: A Practical Infrared and Visible Image Fusion Network Based on Progressive Semantic Injection and Scene Fidelity.<br>
 Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
