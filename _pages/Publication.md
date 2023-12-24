@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
-: <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
+<b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45(10), pp.12148-12166, 2023.
 
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
@@ -25,7 +25,8 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 
 * RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
 <b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition*, pp. 19679-19688, 2022.
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition*,
+:   pp. 19679-19688, 2022.
 
 * U2Fusion: A Unified Unsupervised Image Fusion Network.<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
