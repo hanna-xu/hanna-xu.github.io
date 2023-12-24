@@ -41,6 +41,12 @@ Meiqi Gong, Hao Zhang, <b>Han Xu</b>, Xin Tian, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), pp. 19679-19688, 2022.
 
+* <font size=3> Attention-Guided Polarization Image Fusion Using Salient Information Distribution.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982370"><font color=blue>[paper]</font></a>
+<a href="https://github.com/hanna-xu/PAPIF"><font color=blue>[code]</font></a><br>
+<b>Han Xu</b>, Yucheng Sun, Xiaoguang Mei, Xin Tian, Jiayi Ma.
+<i> IEEE Transactions on Computational Imaging</i> (<b>TCI</b>), 8, pp.1117-1130, 2022.
+
 * <font size=3>U2Fusion: A Unified Unsupervised Image Fusion Network.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151265"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/U2Fusion"><font color=blue>[code]</font></a><br>
