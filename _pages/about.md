@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3>I am currently a Ph.D. student at Electronic Information School of Wuhan University, China, under the supervision of Prof. <a href="http://mvp.whu.edu.cn/jiayima/">Jiayi Ma</a> in the <a href="http://mvp.whu.edu.cn/">Lab of Multi-spectral Vision Processing</a>. I received my B.Eng from Wuhan University, China, in 2018.<br><br>
+<font size=3>I am currently a Ph.D. student at Electronic Information School of Wuhan University, China, under the supervision of <a href="http://mvp.whu.edu.cn/jiayima/">Prof. Jiayi Ma</a> in the <a href="http://mvp.whu.edu.cn/">Lab of Multi-spectral Vision Processing</a>. I received my B.Eng from Wuhan University, China, in 2018.<br><br>
 My research interests include topics in computer vision, especially image fusion, image enhancement, and multi-modal data processing.
 </font>
 
