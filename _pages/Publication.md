@@ -83,5 +83,10 @@ Hao Zhang, <b>Han Xu</b>, Yang Xiao, Xiaojie Guo, Jiayi Ma.<br>
 Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.4980-4995, 2020.
 
+* <font size=3> Learning a Generative Model for Fusing Infrared and Visible Images via Conditional Generative Adversarial Network with Dual Discriminators.
+<a href="https://www.ijcai.org/proceedings/2019/0549.pdf"><font color=blue>[paper]</font></a><br>
+<b>Han Xu</b>, Pengwei Liang, Wei Yu, Junjun Jiang, Jiayi Ma.<br>
+International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), pp.3954-3960, 2019.
+
 <a href=""><font color=blue>[paper]</font></a>
 <a href=""><font color=blue>[code]</font></a><br>
