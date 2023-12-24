@@ -13,7 +13,7 @@ redirect_from:
 
 * [U2Fusion: A Unified Unsupervised Image Fusion Network](https://hanna-xu.github.io/files/TPAMI_U2Fusion.pdf).<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 44(1), pp. 502-518, 2022.
 
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
 Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
@@ -23,6 +23,6 @@ Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
  <b>Han Xu</b>, Haochen Liang, Jiayi Ma. <br>
   *AAAI Conference on Artificial Intelligence* (**AAAI**), 2023.
 
-* RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
+* [RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/CVPR_RFNet.pdf).<br>.<br>
 <b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR</b>), 2022.
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (<b>CVPR</b>), pp. 19679-19688, 2022.
