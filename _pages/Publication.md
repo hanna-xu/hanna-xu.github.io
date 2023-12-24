@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-## Publications
-
 * [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/TPAMI_MURF.pdf).<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (<b>TPAMI</b>), 2023.
