@@ -82,6 +82,12 @@ Hao Zhang, <b>Han Xu</b>, Xin Tian, Junjun Jiang, Jiayi Ma.<br>
 <b>Han Xu</b>, Xinya Wang, Jiayi Ma.<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i> (<b>TIM</b>), 70, pp.1-13, 2021.
 
+* <font size=3> GANMcC: A Generative Adversarial Network with Multiclassification Constraints for Infrared and Visible Image Fusion.
+* <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274337"><font color=blue>[paper]</font></a>
+<a href="https://github.com/jiayi-ma/GANMcC"><font color=blue>[code]</font></a><br>
+Jiayi Ma, Hao Zhang, Zhenfeng Shao, Pengwei Liang, and <b>Han Xu</b>.<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i> (<b>TIM</b>), 70, pp.1-14, 2020.
+
 * <font size=3> SDPNet: A Deep Network for Pan-sharpening with Enhanced Information Representation.
 <a href="https://ieeexplore.ieee.org/abstract/document/9200533"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/SDPNet-for-pansharpening"><font color=blue>[code]</font></a><br>
