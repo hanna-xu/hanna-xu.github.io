@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-* MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
+* <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion</font>.<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45(10), pp.12148-12166, 2023.
 
