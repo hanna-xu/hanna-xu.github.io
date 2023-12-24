@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "AboutHan Xu (徐涵)"
+# title: "About Han Xu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
