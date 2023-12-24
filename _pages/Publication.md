@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-* <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
+* <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<a href="https://hanna-xu.github.io/files/TPAMI_MURF.pdf">
+<font color=blur>[paper]</font></a><br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 45(10), pp.12148-12166, 2023.</font>
 
