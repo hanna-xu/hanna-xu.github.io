@@ -7,6 +7,16 @@ redirect_from:
   - /resume
 ---
 
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
+
 * MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45(10), pp.12148-12166, 2023.
