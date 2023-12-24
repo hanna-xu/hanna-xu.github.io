@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<font size=3>I am currently a Ph.D. student at Electronic Information School of Wuhan University, China, under the supervision of Prof. <a href="http://mvp.whu.edu.cn/jiayima/"Jiayi Ma</a> in the [Lab of Multi-spectral Vision Processing](http://mvp.whu.edu.cn/). I received my B.Eng from Wuhan University, China, in 2018.
+<body>
+<font size=3>I am currently a Ph.D. student at Electronic Information School of Wuhan University, China, under the supervision of Prof. <a href="http://mvp.whu.edu.cn/jiayima/">Jiayi Ma</a> in the <a href="http://mvp.whu.edu.cn/">Lab of Multi-spectral Vision Processing</a>. I received my B.Eng from Wuhan University, China, in 2018.
 
 My research interests include topics in computer vision, especially image fusion, image enhancement, and multi-modal data processing.
-
+</font>
+</body>
+  
 ## Selected Publications
 * [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://hanna-xu.github.io/files/TPAMI_MURF.pdf).<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
