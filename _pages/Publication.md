@@ -47,6 +47,12 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma.<br>
 <i>Information Fusion</i>, 76, pp.177-186, 2021.
 
+* <font size=3> SDPNet: A Deep Network for Pan-sharpening with Enhanced Information Representation.
+<a href="https://ieeexplore.ieee.org/abstract/document/9200533"><font color=blue>[paper]</font></a>
+<a href="https://github.com/hanna-xu/SDPNet-for-pansharpening"><font color=blue>[code]</font></a><br>
+<b>Han Xu</b>, Jiayi Ma, Zhenfeng Shao, Hao Zhang, Junjun Jiang, Xiaojie Guo.<br>
+<i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b>TGRS</b>), 59(5), pp.4120-4134, 2020.
+
 * <font size=3> MEF-GAN: Multi-Exposure Image Fusion via Generative Adversarial Networks.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112609"><font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/MEF-GAN"><font color=blue>[code]</font></a><br>
