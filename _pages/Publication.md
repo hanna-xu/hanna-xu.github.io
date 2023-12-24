@@ -30,6 +30,12 @@ Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
 Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <i>Information Fusion</i>, 99, pp.101870, 2023.
 
+* <font size=3> Multipatch Progressive Pansharpening with Knowledge Distillation.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10064074"><font color=blue>[paper]</font></a>
+<a href="https://github.com/Meiqi-Gong/PSDNet"><font color=blue>[code]</font></a><br>
+Meiqi Gong, Hao Zhang, <b>Han Xu</b>, Xin Tian, Jiayi Ma.<br>
+<i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b>TGRS</b>), 61, pp.1-15, 2023.
+
 * <font size=3>RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.
 <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf"><font color=blue>[paper]</font></a><br>
 <b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
