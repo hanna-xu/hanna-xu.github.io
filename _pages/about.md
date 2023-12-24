@@ -30,7 +30,7 @@ Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
  <b>Han Xu</b>, Haochen Liang, Jiayi Ma. <br>
   <i>AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), 2023.
 
-* <font size=3> RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
+* <font size=3>RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
 <b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2022.
 
