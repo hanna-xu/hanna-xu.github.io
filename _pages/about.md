@@ -49,10 +49,10 @@ Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
 * <font size=3>National Scholarship for Graduate Student, 2020
 
 ## Academic Service
-* <b><font size=4>Journal Reviewer</font></b><br>
-<font size=3>IEEE TPAMI/TIP/JAS/TCSVT/TGRS, IJCV, Information Fusion, Neurocomputing, CVIU
+* <body><font size=4><b>Journal Reviewer</b></font><br>
+<font size=3>IEEE TPAMI/TIP/JAS/TCSVT/TGRS, IJCV, Information Fusion, Neurocomputing, CVIU</font></body>
 
-* <b><font size=4>PC Member</font></b><br>
+* <font size=4><b>PC Member</b></font><br>
 <font size=3>CVPR 2023/2024, NeurIPS 2023, ICLR 2024
 
 
