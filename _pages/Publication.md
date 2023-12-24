@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
-<b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
+: <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 45(10), pp.12148-12166, 2023.
 
 * Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
