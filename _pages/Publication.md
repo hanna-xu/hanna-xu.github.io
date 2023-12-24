@@ -41,14 +41,22 @@ Linfeng Tang, Hao Zhang, <b>Han Xu</b>, Jiayi Ma.<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 44(1), pp. 502-518, 2022.
 
+*<font size=3>EMFusion: An Unsupervised Enhanced Medical Image Fusion Network
+<a href="https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253521X00073/1-s2.0-S1566253521001275/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIH1QP9aGBZa3teDDMkfex8%2BdEYyx4IXj4MwQxckpj0pZAiEA8NLaaxFhWJpLzCYlMoO3VtE81bh5XvhY7KLUgbvgsY4qsgUIXRAFGgwwNTkwMDM1NDY4NjUiDLUB6Zk3upWrKRphbyqPBbhiixN4tY9bSZPdZm%2B6XXdP2XYP3v1lZh%2FudiMKUGDNzoiubuTz1tiOoBOMFadTQpMsSdhkw%2FoIki8%2BtLkuGTstjyCXSr%2Bj2%2Bd9yOxDWQSGtMXBEomfYSL1W2qX9FnQWddff273nKe4jqLzGOMMKpTKdp1UC7kuHH9LLv1rWaFlrE5MjYBwoaBC3luKMkMUAyiMU6EoKESxPga0ggnQvF6H68rHDyy11CwAOWpBx7D4dYIlAS3HjSw1HwC1%2F9TH1%2FeZAcLYyVwgIVFca1MV%2F4xQ5pu70DNrHiw9GJ5jlm5wwn3qrbzK9H6nCr%2B3L%2F%2BpSdKX6tjSxaT8oDlZh42RiJAEbgUYcKZa%2FBxwBo868qZnqJMURMlA2Bsl%2BBUL8aBLF0i%2BmcUPxNI7hvg5pUTo6PhhpqJBLjnIPkGz4jdeF%2FGUUGEsyI%2BX4nOM%2B9c3P15Jh65gS2JKRb%2BIvAGKOjk7LspltNQjPpXAbpZ4zDkiFKG5ERNa%2BzP%2Bkvbc37AHd%2BhAc4B%2FFO%2Bekt7iOFYRd3F2ZmB5gA94c8h5168I150U2SQSbAGAPl%2BXSFNwiCPVkoSrx7OiUq%2FFIT4oq7WMaj8mw%2Bi6sDGyeilDAud8Cvpqeh1A3pSjStVMCtvvvBdjPQowdLxxvHNdCAbmJERoifG1kuloV9%2FT4XJ4H03iqnlg9YYFlnc7TOKrMr1qfxhqteyStY9uvBDlgu%2B0soGTL72D9PIsWTted0I0BgaL2MLHSpFecwccquL1iiJ1Cw%2BYIiy8JDPG5s9aXeoQkKx4qsKoVzqtAQgM39oj5K06EmV9Ix5CNgZ8fy8CgUgERxqTiENnFy5WQT2yl1UgHvivuvq8XArPCOZTrLrPstzAs%2BD3TqYw68CgrAY6sQFJPJ5VUfp%2F6VOPoUPgK6mwIiosQZyG7I4TBVPk6a7kElEEw4%2FxCPpT8UH7GZp0bPg%2BOSsFjMhe%2FOVLXtXgj%2BeX1sw1T6SOGjdj4wKnaF4iZHvE9%2Bo4HHGGb95ILyEl2P6864uGBU0RwgmvpoZzUNXWW6HLRTQGWk8QqlHzaGELIydWLYK7WKv%2B8RfHORQ6a3nIy7Diw0Mi1gl857s76qDsiHDTNICFTpKZRB6sutNqoII%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231224T130608Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYSOJZAJUY%2F20231224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=53de714f77677fbfc50a3cae65ef5b79a94a8bff9108c9efcbb49f1cb34064d4&hash=96159a793cd418bb103b792515a9d7950f71ea83b6d97d67751791b352ca3719&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253521001275&tid=spdf-ddd43cf3-bc45-47a8-a4d2-3e1a272730e0&sid=523198c738cc504fde9a01359f9523ab000cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=190e5a51075e54075555&rr=83a90f54f806e63e&cc=cn"><font color=blue>[paper]</font></a>
+<a href="https://github.com/hanna-xu/EMFusion"><font color=blue>[code]</font></a><br>
+<b>Han Xu</b>, Jiayi Ma.<br>. 
+<i>Information Fusion</i>, 76, pp.177-186, 2021.
+
 * <font size=3>MEF-GAN: Multi-Exposure Image Fusion via Generative Adversarial Networks.
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031751"><font color=blue>[paper]</font></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112609">
+<font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/MEF-GAN"><font color=blue>[code]</font></a><br>
 <b>Han Xu</b>, Jiayi Ma, Xiao-Ping Zhang.<br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.7203-7216, 2020.
 
 * <font size=3>DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion.
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112609"><font color=blue>[paper]</font></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031751">
+<font color=blue>[paper]</font></a>
 <a href="https://github.com/hanna-xu/DDcGAN"><font color=blue>[code]</font></a><br>
 Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.4980-4995, 2020.
