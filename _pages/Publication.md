@@ -139,6 +139,3 @@ Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 <a href="https://www.ijcai.org/proceedings/2019/0549.pdf"><font color=blue>[paper]</font></a><br>
 <b>Han Xu</b>, Pengwei Liang, Wei Yu, Junjun Jiang, Jiayi Ma.<br>
 <i>International Joint Conference on Artificial Intelligence</i> (<b>IJCAI</b>), pp.3954-3960, 2019.
-
-<a href=""><font color=blue>[paper]</font></a>
-<a href=""><font color=blue>[code]</font></a><br>
