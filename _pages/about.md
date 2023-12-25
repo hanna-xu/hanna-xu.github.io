@@ -57,7 +57,7 @@ Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 
 ## Academic Service
 * <font size=3><b>Journal Reviewer</b><br>
-IEEE TPAMI/TIP/JAS/TCSVT/TGRS, IJCV, Information Fusion, Neurocomputing, CVIU
+IEEE TPAMI/TIP/JAS/TNNLS/TCSVT/TGRS/SPL, IJCV, Information Fusion, Neurocomputing, CVIU
 
 * <font size=3><b>Conference Reviewer</b><br>
 CVPR 2023/2024, NeurIPS 2023, ICLR 2024
