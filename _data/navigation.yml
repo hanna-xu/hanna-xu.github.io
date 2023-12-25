@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /Publications/
 
-  - title: "Awards"
-    url: /talks/    
+  # - title: "Awards"
+    # url: <a href="#Awards" #/talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
