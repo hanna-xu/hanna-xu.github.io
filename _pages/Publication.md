@@ -97,12 +97,12 @@ Hao Zhang, <b>Han Xu</b>, Xin Tian, Junjun Jiang, Jiayi Ma.<br>
 <a href="https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253520X00091/1-s2.0-S1566253520303572/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDftHQQPA9gs%2F4eH3z1Dm4b2VE8IGBBqwevYlVPa6HyBAIhAKRWPNUfAX460gn7JIWn5bJNOkeU%2BvreaGbdJlk2%2Fs0gKrMFCGsQBRoMMDU5MDAzNTQ2ODY1Igy%2FbpjkeFrhORm0qe8qkAXeHhgqFgTNjzAjT6mLcaUE09Jb3evr0%2BGJyAEJ3yVB%2FxtbR3QSPoEai3JURXy%2FJGaZQ1zqlZUTyfNE4i29u8hXV%2BMUM%2Brlt8u9i4WHkYhaGwR92WQrWJxkBBc61zeByhw9NORBMR4jsQ9qlmdJETw%2BLKAy4s1L1Wm3NzC1stlMNGkv7iibLcTAJiIEPh0ElBEh85xVW2IVqhYnvJ2%2BBZPqAMhe0ztj8H6QszjPjqu1%2F%2Fr0r%2BNVJ2dpUygy0O6qbTc77C4SgjDbXw0fJ0taAAE%2BRbRdfLMsBOr1CivSRa8vsb1vxtpk6CiX58U09S5NBWSGIQW%2F%2FEUjaqG8NzerNTyDWIKp5PH4bpi6SCAQkZF%2F0pWfPfgocxzsFQXhILe44kL%2FnPiTlh0QuTzRZKamkILXCOYXtggx9s9bSg5rGu%2F%2B1aP8PpJ8GmqGbbH4lHogJUQYC%2FFbZqUn55TvcmRxjDZPMa7ytGMu0%2FilgTXKSF7NmdcrFi5N3xxxpyhs%2By0ouqIDoF%2BmC4vtKQWIC2m8QjtjY%2FgRd4Z84n8brxART1tLTSkCBkfQ6LqXRg2EbqX98uz1KBmVOBzigNC9%2FKVkfZ%2FCRygTgo9QrT%2FQ1dQtTCaKEKByVsxVvRHLqv1jFyazCLKzFEKW7sNIbqpovBprHa1CMa0n7EOA7xJUp%2F7WcPHkNm5ezefD614whSFcZwoIGxoQloryG9pFhY2kmbTsbdxq8OcErJUy%2Bgk7dNHSoCXdYpWaVIslUF8qhgdFBw5MNeiSOdXqFeKem%2BHlvKLCpenmCm%2FYNHhzWP2EfqyiB5Auah%2Fj0JWOlJ3mIzJpDhYn9AW%2F%2Bm95gFbmkKFUrkrUH4GONnx%2BoLa2%2BrgjMfheAZgZzzChwqOsBjqwASk%2FF2x2sHAIusmwPXyWzHEkXrzhd9ccP1DrbSUdHwznMQMyI7kJLIPZs%2BdjtdLkmhNZ%2FgvQU9yKNRM3hKgYG%2Ffnh2CEbT%2FE4cPBq0Dp8NzcEyogawAybAc5QYWyR%2B1kzbNYjqFDhDElMqO1c8%2FniLak4FhzVCjvcEBYNdBTZleC%2BJB%2BCtRpn0UAxI%2Fha6mrLXxWA80bSAU%2F26%2BG3OxYkLqIQIQniVBs4sIZWfvrjn9v&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231225T023856Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTF7ARCNV%2F20231225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e07b836dd296b870d3f198987c2ab0333a774bfbdfd18de58276a43ea5521a74&hash=c706053a7eebbcaacf4e46c3e0160f1aa36d3fe546157816779f20b9df0d6351&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253520303572&tid=spdf-cc880dcb-4d49-41c6-876e-c451503e4242&sid=523198c738cc504fde9a01359f9523ab000cgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=190e5a51070306540653&rr=83adb5f2ebae8b2f&cc=cn&kca=eyJrZXkiOiI0dWRwbTg4bnpKUVVLcHpseWxnbDdkcGZOVnE3bWVyUEdwMGVVdm5SM1RZNnB4TXFjb1NYaFY4bVhSSUgyTE94TStydG1ybGRSeWVxQU5Mbm5OeEdZU2tsVGVqMG1PR1B4d2hqVHpJM3l3bmF1UHdxYVNMdERCQVl5dDBlQlZrc21qbnQyMGNpZ1hzSzFsSCtqSWVWeWtlbkdtVmhWZWFNT2dIazZ6TmRLL1FqSENtV0NBPT0iLCJpdiI6ImI1OGQzNWEwMjdiYTBlNDMyZDdlNjkyYzMxOTJkOTgxIn0=_1703471966005"><font color=blue>[paper]</font></a>
 <a href="https://github.com/HaoZhang1018/MFF-GAN"><font color=blue>[code]</font></a><br>
 Hao Zhang, Zhuliang Le, Zhenfeng Shao, <b>Han Xu</b>, Jiayi Ma.<br>
-<i>Information Fusion<>/i>, 66, pp.40-53, 2021.
+<i>Information Fusion</i>, 66, pp.40-53, 2021.
 
 * <font size=3> GANMcC: A Generative Adversarial Network with Multiclassification Constraints for Infrared and Visible Image Fusion.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274337"><font color=blue>[paper]</font></a>
 <a href="https://github.com/jiayi-ma/GANMcC"><font color=blue>[code]</font></a><br>
-Jiayi Ma, Hao Zhang, Zhenfeng Shao, Pengwei Liang, and <b>Han Xu</b>.<br>
+Jiayi Ma, Hao Zhang, Zhenfeng Shao, Pengwei Liang, <b>Han Xu</b>.<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i> (<b>TIM</b>), 70, pp.1-14, 2020.
 
 * <font size=3> SDPNet: A Deep Network for Pan-sharpening with Enhanced Information Representation.
@@ -138,7 +138,7 @@ Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 * <font size=3> Learning a Generative Model for Fusing Infrared and Visible Images via Conditional Generative Adversarial Network with Dual Discriminators.
 <a href="https://www.ijcai.org/proceedings/2019/0549.pdf"><font color=blue>[paper]</font></a><br>
 <b>Han Xu</b>, Pengwei Liang, Wei Yu, Junjun Jiang, Jiayi Ma.<br>
-International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), pp.3954-3960, 2019.
+<i>International Joint Conference on Artificial Intelligence</i> (<b>IJCAI</b>), pp.3954-3960, 2019.
 
 <a href=""><font color=blue>[paper]</font></a>
 <a href=""><font color=blue>[code]</font></a><br>
