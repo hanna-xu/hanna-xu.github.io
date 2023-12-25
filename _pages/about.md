@@ -42,7 +42,7 @@ Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
 Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 <i>IEEE Transactions on Image Processing</i> (<b>TIP</b>), 29, pp.4980-4995, 2020.
 
-[More papers](https://hanna-xu.github.io/publications/)
+[More papers](https://hanna-xu.github.io/Publications/)
 
 ## Educations
 * <font size=3> 2018-2023, Ph.D., Electronic Information School, Wuhan University.
