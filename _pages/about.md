@@ -14,26 +14,26 @@ My research interests include topics in computer vision, especially image fusion
 
   
 ## Selected Publications
-* <font size=3><a href="https://hanna-xu.github.io/files/TPAMI_MURF.pdf">MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion</a>.<br>
+* <font size=3><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10145843">MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion</a>.<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 2023.
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 45(10), pp.12148-12166, 2023.
 
 * <font size=3><a href="https://hanna-xu.github.io/files/TPAMI_U2Fusion.pdf">U2Fusion: A Unified Unsupervised Image Fusion Network</a>.<br>
 <b>Han Xu</b>, Jiayi Ma, Junjun Jiang, Xiaojie Guo, Haibin Ling.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 2022.
 
-* <font size=3>Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.<br>
+* <font size=3><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yi_Diff-Retinex_Rethinking_Low-light_Image_Enhancement_with_A_Generative_Diffusion_Model_ICCV_2023_paper.pdf">Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model.</a>
 Xunpeng Yi, <b>Han Xu</b>, Hao Zhang, Linfeng Tang, Jiayi Ma.<br>
-<i>IEEE/CVF International Conference on Computer Vision</i> (<b>ICCV</b>), 2023.
+<i>IEEE/CVF International Conference on Computer Vision</i> (<b>ICCV</b>), pp.12302-12311, 2023.
 
-* <font size=3>Unsupervised Multi-exposure Image Fusion Breaking Exposure Limits via Contrastive Learning.<br>
+* <font size=3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25404">Unsupervised Multi-exposure Image Fusion Breaking Exposure Limits via Contrastive Learning.</a><br>
  <b>Han Xu</b>, Haochen Liang, Jiayi Ma. <br>
-  <i>AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), 2023.
+<i>AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>), 37(3), 3010-30172023.
 
-* <font size=3>RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.<br>
+
+* <font size=3><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf">RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion.</a>
 <b>Han Xu</b>, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu.<br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), 2022.
-
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b>CVPR</b>), pp. 19679-19688, 2022.
 
 [More papers](https://hanna-xu.github.io/publications/)
 
