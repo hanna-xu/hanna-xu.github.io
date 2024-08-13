@@ -59,7 +59,7 @@ Jiayi Ma, <b>Han Xu</b>, Junjun Jiang, Xiaoguang Mei, Xiao-ping Zhang.<br>
 IEEE TPAMI/TIP/JAS/TNNLS/TCSVT/TGRS/SPL, IJCV, Information Fusion, Neurocomputing, CVIU
 
 * <font size=3><b>Conference Reviewer</b><br>
-CVPR 2023/2024, NeurIPS 2023, ICLR 2024
+CVPR 2023/2024, NeurIPS 2023/2024, ICLR 2024/2025, AAAI 2025
 
 ## Correspondence
 <font size=3> Email: xu_han@seu.edu.cn
