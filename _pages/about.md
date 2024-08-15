@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3>I am currently an Associate Researcher in School of Automation, Southeast University. My research interests include topics in computer vision, especially image fusion, image enhancement, and multi-modal data processing. I obtained my Ph.D. degree from Electronic Information School, Wuhan University, in 2023, under the supervision of <a href="http://mvp.whu.edu.cn/jiayima/">Prof. Jiayi Ma</a> in the <a href="http://mvp.whu.edu.cn/">Lab of Multi-spectral Vision Processing</a>. I received my B.Eng from Wuhan University, China, in 2018.<br><br>
+<font size=3>I am currently an Associate Professor in School of Automation, Southeast University. My research interests include topics in computer vision, especially image fusion, image enhancement, and multi-modal data processing. I obtained my Ph.D. degree from Electronic Information School, Wuhan University, in 2023, under the supervision of <a href="http://mvp.whu.edu.cn/jiayima/">Prof. Jiayi Ma</a> in the <a href="http://mvp.whu.edu.cn/">Lab of Multi-spectral Vision Processing</a>. I received my B.Eng from Wuhan University, China, in 2018.<br><br>
 </font>
 
   
 ## Selected Publications
+* <font size=3><a href="https://link.springer.com/article/10.1007/s11263-024-02065-z">CRetinex: A Progressive Color-Shift Aware Retinex Model for Low-Light Image Enhancement</a>.<br>
+<b>Han Xu</b>, Hao Zhang, Xunpeng Yi, Jiayi Ma.<br>
+<i>International Journal of Computer Vision</i> (<b>IJCV</b>), pp.1-23, 2024.
+
 * <font size=3><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10145843">MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion</a>.<br>
 <b>Han Xu</b>, Jiteng Yuan, Jiayi Ma.<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (<b>TPAMI</b>), 45(10), pp.12148-12166, 2023.
