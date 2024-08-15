@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 
+* <font size=3>CRetinex: A Progressive Color-Shift Aware Retinex Model for Low-Light Image Enhancement.
+<a href="https://link.springer.com/article/10.1007/s11263-024-02065-z">[paper]</a>
+<a href="https://github.com/hanna-xu/CRetinex">[code]</a><br>
+<b>Han Xu</b>, Hao Zhang, Xunpeng Yi, Jiayi Ma.<br>
+<i>International Journal of Computer Vision</i> (<b>IJCV</b>), pp.1-23, 2024.
 
 * <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10145843">[paper]</a>
