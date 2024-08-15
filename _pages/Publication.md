@@ -14,6 +14,12 @@ redirect_from:
 <b>Han Xu</b>, Hao Zhang, Xunpeng Yi, Jiayi Ma.<br>
 <i>International Journal of Computer Vision</i> (<b>IJCV</b>), pp.1-23, 2024.
 
+* <font size=3>More Than Lightening: A Self-Supervised Low-Light Image Enhancement Method Capable for Multiple Degradations.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433383">[paper]</a>
+<a href="https://github.com/hanna-xu/SLIE">[code]</a><br>
+<b>Han Xu</b>, Jiayi Ma, Yixuan Yuan, Hao Zhang, Xin Tian, and Xiaojie Guo.<br>
+<i>IEEE/CAA Journal of Automatica Sinica</i> (<b>JAS</b>), 11(3), pp.622-637, 2024.
+
 * <font size=3>MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion.
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10145843">[paper]</a>
 <a href="https://github.com/hanna-xu/MURF">[code]</a><br>
